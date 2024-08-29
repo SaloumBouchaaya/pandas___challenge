@@ -1,0 +1,15 @@
+Throughout our analysis I looked at the stadardized test results of 15 schools, consisting of a total os 39,170 students ranging from grade 9-12.
+Out of the 15 schools, 8 of them are charter schools and 7 are district schools. 
+The data will show average math & reading scores as well as passing percentages. 
+The data will broken down and displayed in multiple data frames calculating highest scoring, lowest scoring, results by school type, school sizes, budgets, and much more.   
+Our hope is that our findings can help the school board and mayor make the correct strategic deicisions regarding future school budgets and prorities. 
+
+After gathering and analyzing the data it is clear that charter scools, which happen to also have less students, scored much higher on their standardized tests. 
+The 8 charter schools as a collective group have about 27% higher math and 3% higher reading passing rates. Charter schoools overall passing rate is roughly 94.5%
+while the district schools are at a lowely 53.5%. 
+It is possible for there to be a correlation between the amount of students in each school and better test results, 
+With smaller schools there may be more one on one support for the students. 
+
+The per student capita also stood out. Although the charter schools have less students they also have a smaller budget per student.
+Despite having less to spend on each child they manage to score significanty higher. That leads us to question whether having a higher budget per student truly affect their learning
+or if the district schools are not allocating their funds properly. Although district schools are only a little behind in reading, they are very far behind in math.  
